@@ -48,4 +48,4 @@ This project is under the MIT license. See the [LICENSE](https://github.com/Ales
 
 ----------
 
-Made with by Roberto Sousa  👋  [Get in touch!](https://www.linkedin.com/in/alessandro-muniz-caranha/)
+Made with by Alessandro Caranha  👋  [Get in touch!](https://www.linkedin.com/in/alessandro-muniz-caranha/)
